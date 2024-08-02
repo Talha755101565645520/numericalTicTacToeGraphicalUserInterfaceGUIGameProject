@@ -18,3 +18,6 @@ win the game. Again, the diagonal, horizontal row, or vertical column will be hi
 3. Go to the File Path where the Python 3 File, that is the .py3 File, is located on your "C:\" Drive or if on default, go to "C:\User\<PC User Name>\Downloads     \Numerical_Tic_Tac_Toe_Graphical_User_Interface_GUI_Game_Project".
 4. Go to your Operating System's Command Prompt and type the command "cd C:\User\<PC User Name>\....\Numerical_Tic_Tac_Toe_Graphical_User_Interface_GUI_Game_Project".
 5. In the Command Prompt, type the command `python Numerical_Tic_Tac_Toe_GUI.py3` and then press Enter to execute the command. 
+
+<img src = "Screenshots/Instruction%20Window%20Screenshot%20for%20Numerical_Tic_Tac_Toe_Game_GUI.py3%20File%20Part%201.png>
+
